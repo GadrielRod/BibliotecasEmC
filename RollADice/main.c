@@ -12,6 +12,7 @@ int main()
 
     int roll;
     int face;
+    srand(time(NULL));
 
     for(roll = 1; roll <=6000; roll++){
         face = 1 + rand() % 6;
