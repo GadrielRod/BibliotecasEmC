@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663178056 source:c:\users\uchih\documents\bibliotecasemc\gamesimulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
